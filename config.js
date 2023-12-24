@@ -10,7 +10,7 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a para GataBot-MD | Add the numbers to be Owner for GataBot-MD ⋅.━━━━ ⊰  
 
-global.owner = [
+global.owner = [5359293200",Keilyn', true ]
 ["5492266466080", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
 ["573026191480", '𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 𝙂𝘽 💖🐈', true], 
 ["5492266466080"], 
